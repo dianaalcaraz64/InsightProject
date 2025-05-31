@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteDeLogin]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="PruebaLoginUsuarios(failed)">
+    <classes>
+      <class name="com.insight.automation.tests.LoginUserTest">
+        <methods>
+          <include name="openWroser"/>
+          <include name="userLoguinSuccessful" invocation-numbers="0"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.insight.automation.tests.LoginUserTest -->
+    </classes>
+  </test> <!-- PruebaLoginUsuarios(failed) -->
+</suite> <!-- Failed suite [SuiteDeLogin] -->

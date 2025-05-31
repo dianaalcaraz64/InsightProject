@@ -1,0 +1,31 @@
+{
+  "usuarios": [            
+
+  { "email": "brit1987@cuvox.de", 
+    "password": "Bele_4557@",
+    "expectedUserName":"Belé Lino"
+  },
+  
+  { "email": "meas1984@teleworm.us", 
+    "password": "Lucas-7557@",
+    "expectedUserName":"Lucas Dunas"
+  },
+
+  { "email":"licaria56@einrot.com",
+    "password": "fatima!7557A@",
+    "expectedUserName":"Fatima Alicia Del Valle"
+  },
+
+  { "email":"thentime1990@teleworm.us",
+    "password": "gaticaJ!7557A*",
+    "expectedUserName":"Jorge Gatíca"
+  },
+
+  { "email":"jact1963@superrito.com",
+    "password": "FLORes@7557A^%",
+    "expectedUserName":"André Flores"
+  }
+
+ ]
+
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteGeneralDeAutomatizacion" verbose="1"> <test name="Test_Solo_Login_Usuario"> <classes>
+            <class name="com.insight.automation.tests.LoginSoloTest"/> 
+        </classes>
+    </test>
+
+    <test name="Test_Login_y_Registro_Paciente"> <classes>
+            <class name="com.insight.automation.tests.LoginUserTest"/>
+        </classes>
+    </test>
+
+</suite>
