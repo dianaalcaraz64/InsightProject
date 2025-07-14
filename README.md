@@ -11,7 +11,7 @@ Entre sus funcionalidades principales se encuentran:
 
 ## 🎯 Objetivo de la automatización
 
-Este proyecto tiene como objetivo validar el **flujo crítico** del sistema: desde el login hasta el registro y cierre de sesión del usuario, garantizando la correcta interacción con la UI y la persistencia de datos.
+Este proyecto tiene como objetivo validar el **flujo crítico** del sistema: desde el inicio de sesión, registro de paciente y cierre de sesión, garantizando la correcta interacción con la UI y la persistencia de datos.
 
 ## 🧰 Tecnologías utilizadas
 
